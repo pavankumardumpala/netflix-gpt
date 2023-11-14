@@ -19,6 +19,7 @@
   -Bug Fix : If the user is not logged in redirect /Browse to /login and vice versa
   -Unsubscribe to onAuthStateChange callback
   -Add hard coded values to constants file
+  -Took some break
 
 # Features
 
