@@ -13,6 +13,15 @@
 -Create SignUp user in firebase
 -implemet SignIn user Api
 
+- Created Redux store with userSlice
+  -Implemented signOut
+  -Updated profile
+  -Registered TMDB API & created an app & get access token
+  -Get data from TMDB now playing movies list API
+  -Custom hook for now playing API
+  -Created movieSlice;
+  -Updated store with movies data
+
 - Implemented sign out
 - Created Redux store with userSlice
   -Update profile
